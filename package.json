@@ -1,0 +1,24 @@
+{
+  "name": "langmap",
+  "version": "0.0.1",
+  "description": "List of all the known languages in their English and Native name with locales",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alicoding/language-mapping-list.git"
+  },
+  "keywords": [
+    "locales",
+    "map",
+    "languages",
+    "list",
+    "l10n",
+    "localization",
+    "world",
+    "native language",
+    "English language",
+    "list of languages"
+  ],
+  "author": "Ali Al Dallal <ali@alicoding.com>",
+  "license": "MPL-2.0"
+}
