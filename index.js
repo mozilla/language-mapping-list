@@ -4,6 +4,10 @@ module.exports = {
     nativeName: "Lwo",
     englishName: "Acholi"
   },
+  'ady': {
+    nativeName: "Адыгэбзэ",
+    englishName: "Adyghe"
+  },
   'af': {
     nativeName: "Afrikaans",
     englishName: "Afrikaans"
