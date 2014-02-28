@@ -88,9 +88,17 @@ module.exports = {
     nativeName: "Deutsch",
     englishName: "German"
   },
+  'de-AT': {
+    nativeName: "Deutsch (Austria)",
+    englishName: "German (Austria)"
+  },
   'de-DE': {
-    nativeName: "Deutsch",
-    englishName: "German"
+    nativeName: "Deutsch (German)",
+    englishName: "German (German)"
+  },
+  'de-CH': {
+    nativeName: "Deutsch (Switzerland)",
+    englishName: "German (Switzerland)"
   },
   'el': {
     nativeName: "Ελληνικά",
@@ -164,6 +172,10 @@ module.exports = {
     nativeName: "Español",
     englishName: "Spanish (Latin)"
   },
+  'es-NI': {
+    nativeName: "Español Nicaragüense",
+    englishName: "Spanish (Nicaragua)"
+  },
   'es-MX': {
     nativeName: "Español (México)",
     englishName: "Spanish (Mexico)"
@@ -172,9 +184,13 @@ module.exports = {
     nativeName: "Español (Venezuela)",
     englishName: "Spanish (Venezuela)"
   },
-  'et-EE': {
-    nativeName: "Eesti",
+  'et': {
+    nativeName: "eesti keel",
     englishName: "Estonian"
+  },
+  'et-EE': {
+    nativeName: "Eesti (Estonia)",
+    englishName: "Estonian (Estonia)"
   },
   'eu': {
     nativeName: "Euskara",
@@ -228,8 +244,12 @@ module.exports = {
     nativeName: "Frysk",
     englishName: "Frisian (West)"
   },
-  'ga-IE': {
+  'ga':  {
     nativeName: "Gaeilge",
+    englishName: "Irish"
+  },
+  'ga-IE': {
+    nativeName: "Gaeilge (Gaelic)",
     englishName: "Irish (Gaelic)"
   },
   'gl': {
@@ -292,9 +312,13 @@ module.exports = {
     nativeName: "Bahasa Indonesia",
     englishName: "Indonesian"
   },
-  'is-IS': {
+  'is': {
     nativeName: "Íslenska",
     englishName: "Icelandic"
+  },
+  'is-IS': {
+    nativeName: "Íslenska (Iceland)",
+    englishName: "Icelandic (Iceland)"
   },
   'it': {
     nativeName: "Italiano",
@@ -332,9 +356,13 @@ module.exports = {
     nativeName: "ភាសាខ្មែរ",
     englishName: "Khmer"
   },
-  'kn-IN': {
-    nativeName: "ಕನ್ನಡ",
+  'kn': {
+    nativeLanguage: "ಕನ್ನಡ",
     englishName: "Kannada"
+  },
+  'kn-IN': {
+    nativeName: "ಕನ್ನಡ (India)",
+    englishName: "Kannada (India)"
   },
   'ko-KR': {
     nativeName: "한국어",
@@ -504,9 +532,13 @@ module.exports = {
     nativeName: "Davvisámegiella",
     englishName: "Northern Sámi"
   },
-  'sk-SK': {
+  'sk': {
     nativeName: "Slovenčina",
     englishName: "Slovak"
+  },
+  'sk-SK': {
+    nativeName: "Slovenčina (Slovakia)",
+    englishName: "Slovak (Slovakia)"
   },
   'sl': {
     nativeName: "Slovenščina",
@@ -528,9 +560,17 @@ module.exports = {
     nativeName: "Shqip",
     englishName: "Albanian"
   },
-  'sr-RS': {
+  'sr': {
     nativeName: "Српски",
     englishName: "Serbian"
+  },
+  'sr-RS': {
+    nativeName: "Српски (Serbia)",
+    englishName: "Serbian (Serbia)"
+  },
+  'su': {
+    nativeName: "Basa Sunda",
+    englishName: "Sundanese"
   },
   'sv': {
     nativeName: "Svenska",
@@ -620,9 +660,13 @@ module.exports = {
     nativeName: "isiXhosa",
     englishName: "Xhosa"
   },
-  'yi-DE': {
+  'yi': {
     nativeName: "ייִדיש",
     englishName: "Yiddish"
+  },
+  'yi-DE': {
+    nativeName: "ייִדיש (German)",
+    englishName: "Yiddish (German)"
   },
   'zh-CN': {
     nativeName: "中文(简体)",
