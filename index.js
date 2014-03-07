@@ -608,9 +608,13 @@ module.exports = {
     nativeName: "тоҷикӣ",
     englishName: "Tajik"
   },
-  'th-TH': {
+  'th': {
     nativeName: "ภาษาไทย",
     englishName: "Thai"
+  },
+  'th-TH': {
+    nativeName: "ภาษาไทย (ประเทศไทย)",
+    englishName: "Thai (Thailand)"
   },
   'tl': {
     nativeName: "Filipino",
