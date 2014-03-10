@@ -156,6 +156,10 @@ module.exports = {
     nativeName: "Español",
     englishName: "Spanish"
   },
+  'es-AR': {
+    nativeName: "Español (Argentine)",
+    englishName: "Spanish (Argentina)"
+  },
   'es-419': {
     nativeName: "Español (Latino America)",
     englishName: "Spanish (Latin America)"
