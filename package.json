@@ -1,6 +1,6 @@
 {
   "name": "langmap",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "List of all the known languages in their English and Native name with locales",
   "main": "./index.js",
   "repository": {
