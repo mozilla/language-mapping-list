@@ -20,6 +20,10 @@ module.exports = {
     nativeName: "Afrikaans (South Africa)",
     englishName: "Afrikaans (South Africa)"
   },
+  'ak': {
+    nativeName: "Tɕɥi",
+    englishName: "Akan"
+  },
   'ar': {
     nativeName: "العربية",
     englishName: "Arabic"
@@ -49,7 +53,7 @@ module.exports = {
     englishName: "Bengali"
   },
   'bn-IN': {
-    nativeName: "বাংলা(ভারত)",
+    nativeName: "বাংলা (ভারত)",
     englishName: "Bengali (India)"
   },
   'bn-BD': {
@@ -171,6 +175,10 @@ module.exports = {
   'es-CO': {
     nativeName: "Español (Colombia)",
     englishName: "Spanish (Colombia)"
+  },
+  'es-EC': {
+    nativeName: "Español (Ecuador)",
+    englishName: "Spanish (Ecuador)"
   },
   'es-ES': {
     nativeName: "Español (España)",
@@ -372,9 +380,13 @@ module.exports = {
     nativeName: "ಕನ್ನಡ (India)",
     englishName: "Kannada (India)"
   },
-  'ko-KR': {
+  'ko': {
     nativeName: "한국어",
     englishName: "Korean"
+  },
+  'ko-KR': {
+    nativeName: "한국어 (韩国)",
+    englishName: "Korean (Korea)"
   },
   'ku-TR': {
     nativeName: "Kurdî",
@@ -400,13 +412,21 @@ module.exports = {
     nativeName: "Latviešu",
     englishName: "Latvian"
   },
+  'mai': {
+    nativeName: "मैथिली, মৈথিলী",
+    englishName: "Maithili"
+  },
   'mg-MG': {
     nativeName: "Malagasy",
     englishName: "Malagasy"
   },
-  'mk-MK': {
+  'mk': {
     nativeName: "Македонски",
     englishName: "Macedonian"
+  },
+  'mk-MK': {
+    nativeName: "Македонски (Македонски)",
+    englishName: "Macedonian (Macedonian)"
   },
   'ml': {
     nativeName: "മലയാളം",
@@ -484,9 +504,13 @@ module.exports = {
     nativeName: "ଓଡ଼ିଆ",
     englishName: "Oriya"
   },
-  'pa-IN': {
+  'pa': {
     nativeName: "ਪੰਜਾਬੀ",
     englishName: "Punjabi"
+  },
+  'pa-IN': {
+    nativeName: "ਪੰਜਾਬੀ (ਭਾਰਤ ਨੂੰ)",
+    englishName: "Punjabi (India)"
   },
   'pl-PL': {
     nativeName: "Polski",
@@ -539,6 +563,10 @@ module.exports = {
   'se-NO': {
     nativeName: "Davvisámegiella",
     englishName: "Northern Sámi"
+  },
+  'si-LK': {
+    nativeName: "පළාත",
+    englishName: "Sinhala (Sri Lanka)"
   },
   'sk': {
     nativeName: "Slovenčina",
