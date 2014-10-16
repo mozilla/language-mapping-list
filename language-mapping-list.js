@@ -154,10 +154,6 @@
       nativeName: "English (US)",
       englishName: "English (US)"
     },
-    'en@pirate': {
-      nativeName: "English (Pirate)",
-      englishName: "English (Pirate)"
-    },
     'eo': {
       nativeName: "Esperanto",
       englishName: "Esperanto"
