@@ -626,9 +626,13 @@
       nativeName: "Svenska",
       englishName: "Swedish"
     },
-    'sw-KE': {
+    'sw': {
       nativeName: "Kiswahili",
       englishName: "Swahili"
+    },
+    'sw-KE': {
+      nativeName: "Kiswahili",
+      englishName: "Swahili (Kenya)"
     },
     'ta': {
       nativeName: "தமிழ்",
