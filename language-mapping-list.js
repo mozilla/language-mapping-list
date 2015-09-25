@@ -722,17 +722,33 @@
       nativeName: "ייִדיש (German)",
       englishName: "Yiddish (German)"
     },
+    'zh': {
+      nativeName: "中文",
+      englishName: "Chinese"
+    },
+    'zh-Hans': {
+      nativeName: "中文简体",
+      englishName: "Chinese Simplified"
+    },
+    'zh-Hant': {
+      nativeName: "中文繁體",
+      englishName: "Chinese Traditional" 
+    },
     'zh-CN': {
-      nativeName: "中文(简体)",
-      englishName: "Simplified Chinese (China)"
+      nativeName: "中文（中国）",
+      englishName: "Chinese Simplified (China)"
     },
     'zh-HK': {
-      nativeName: "中文(香港)",
-      englishName: "Traditional Chinese (Hong Kong)"
+      nativeName: "中文（香港）",
+      englishName: "Chinese Traditional (Hong Kong)"
+    },
+    'zh-SG': {
+      nativeName: "中文（新加坡）",
+      englishName: "Chinese Simplified (Singapore)"
     },
     'zh-TW': {
-      nativeName: "中文(台灣)",
-      englishName: "Traditional Chinese (Taiwan)"
+      nativeName: "中文（台灣）",
+      englishName: "Chinese Traditional (Taiwan)"
     },
     'zu-ZA': {
       nativeName: "isiZulu",
