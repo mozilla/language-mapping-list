@@ -111,8 +111,8 @@
       englishName: "German (Austria)"
     },
     'de-DE': {
-      nativeName: "Deutsch (German)",
-      englishName: "German (German)"
+      nativeName: "Deutsch (Deutschland)",
+      englishName: "German (Germany)"
     },
     'de-CH': {
       nativeName: "Deutsch (Switzerland)",
