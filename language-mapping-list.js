@@ -410,6 +410,10 @@
       nativeName: "Latin",
       englishName: "Latin"
     },
+    'lb': {
+      nativeName: "Lëtzebuergesch",
+      englishName: "Luxembourgish"
+    },
     'li-NL': {
       nativeName: "Lèmbörgs",
       englishName: "Limburgish"
