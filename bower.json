@@ -1,7 +1,7 @@
 {
   "name": "langmap",
   "main": "language-mapping-list.js",
-  "version": "0.0.8",
+  "version": "0.0.10",
   "homepage": "https://github.com/alicoding/language-mapping-list",
   "authors": [
     "Ali Al Dallal <ali@alicoding.com>"
