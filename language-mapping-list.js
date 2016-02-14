@@ -94,9 +94,17 @@
       nativeName: "Čeština",
       englishName: "Czech"
     },
+    'cy': {
+      nativeName: "Cymraeg",
+      englishName: "Welsh"
+    },
     'cy-GB': {
       nativeName: "Cymraeg",
       englishName: "Welsh"
+    },
+    'da': {
+      nativeName: "Dansk",
+      englishName: "Danish"
     },
     'da-DK': {
       nativeName: "Dansk",
@@ -318,6 +326,10 @@
       nativeName: "Hrvatski",
       englishName: "Croatian"
     },
+    'ht': {
+      nativeName: "Kreyòl",
+      englishName: "Haitian Creole"
+    },
     'hu': {
       nativeName: "Magyar",
       englishName: "Hungarian"
@@ -477,6 +489,10 @@
     'my': {
       nativeName: "ဗမာစကာ",
       englishName: "Burmese"
+    },
+    'no': {
+      nativeName: "Norsk",
+      englishName: "Norwegian"
     },
     'nb': {
       nativeName: "Norsk (bokmål)",
