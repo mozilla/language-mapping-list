@@ -274,6 +274,14 @@
       nativeName: "Français (France)",
       englishName: "French (France)"
     },
+    'fr-BE': {
+      nativeName: "Français (Belgique)",
+      englishName: "French (Belgium)"
+    },
+    'fr-CH': {
+      nativeName: "Français (Suisse)",
+      englishName: "French (Switzerland)"
+    },
     'fy-NL': {
       nativeName: "Frysk",
       englishName: "Frisian (West)"
@@ -516,11 +524,11 @@
     },
     'nl-BE': {
       nativeName: "Nederlands (België)",
-      englishName: "Dutch (België)"
+      englishName: "Dutch (Belgium)"
     },
     'nl-NL': {
-      nativeName: "Nederlands, Dutch",
-      englishName: "Netherlands, Dutch"
+      nativeName: "Nederlands (Nederland)",
+      englishName: "Dutch (Netherlands)"
     },
     'nn-NO': {
       nativeName: "Norsk (nynorsk)",
@@ -752,7 +760,7 @@
     },
     'zh-Hant': {
       nativeName: "中文繁體",
-      englishName: "Chinese Traditional" 
+      englishName: "Chinese Traditional"
     },
     'zh-CN': {
       nativeName: "中文（中国）",
