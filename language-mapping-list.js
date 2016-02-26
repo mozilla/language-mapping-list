@@ -54,6 +54,10 @@
       nativeName: "Беларуская",
       englishName: "Belarusian"
     },
+    'bg': {
+      nativeName: "Български",
+      englishName: "Bulgarian"
+    },
     'bg-BG': {
       nativeName: "Български",
       englishName: "Bulgarian"
@@ -330,6 +334,10 @@
       nativeName: "हिन्दी",
       englishName: "Hindi"
     },
+    'hr': {
+      nativeName: "Hrvatski",
+      englishName: "Croatian"
+    },
     'hr-HR': {
       nativeName: "Hrvatski",
       englishName: "Croatian"
@@ -438,9 +446,17 @@
       nativeName: "Lèmbörgs",
       englishName: "Limburgish"
     },
+    'lt': {
+      nativeName: "Lietuvių",
+      englishName: "Lithuanian"
+    },
     'lt-LT': {
       nativeName: "Lietuvių",
       englishName: "Lithuanian"
+    },
+    'lv': {
+      nativeName: "Latviešu",
+      englishName: "Latvian"
     },
     'lv-LV': {
       nativeName: "Latviešu",
@@ -489,6 +505,10 @@
     'ms-MY': {
       nativeName: "Bahasa Melayu",
       englishName: "Malay"
+    },
+    'mt': {
+      nativeName: "Malti",
+      englishName: "Maltese"
     },
     'mt-MT': {
       nativeName: "Malti",
@@ -549,6 +569,10 @@
     'pa-IN': {
       nativeName: "ਪੰਜਾਬੀ (ਭਾਰਤ ਨੂੰ)",
       englishName: "Punjabi (India)"
+    },
+    'pl': {
+      nativeName: "Polski",
+      englishName: "Polish"
     },
     'pl-PL': {
       nativeName: "Polski",
@@ -701,6 +725,10 @@
     'tl-ST': {
       nativeName: "tlhIngan-Hol",
       englishName: "Klingon"
+    },
+    'tr': {
+      nativeName: "Türkçe",
+      englishName: "Turkish"
     },
     'tr-TR': {
       nativeName: "Türkçe",
