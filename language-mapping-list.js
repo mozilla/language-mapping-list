@@ -130,6 +130,10 @@
       nativeName: "Deutsch (Switzerland)",
       englishName: "German (Switzerland)"
     },
+    'dsb': {
+      nativeName: "Dolnoserbšćina",
+      englishName: "Lower Sorbian"
+    },
     'el': {
       nativeName: "Ελληνικά",
       englishName: "Greek"
@@ -341,6 +345,10 @@
     'hr-HR': {
       nativeName: "Hrvatski",
       englishName: "Croatian"
+    },
+    'hsb': {
+      nativeName: "Hornjoserbšćina",
+      englishName: "Upper Sorbian"
     },
     'ht': {
       nativeName: "Kreyòl",
