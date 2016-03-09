@@ -150,6 +150,10 @@
       nativeName: "English (UK)",
       englishName: "English (UK)"
     },
+    'en-AU': {
+      nativeName: "English (Australia)",
+      englishName: "English (Australia)"
+    },
     'en-CA': {
       nativeName: "English (Canada)",
       englishName: "English (Canada)"
