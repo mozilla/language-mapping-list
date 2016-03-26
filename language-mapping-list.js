@@ -423,7 +423,7 @@
       englishName: "Khmer"
     },
     'kn': {
-      nativeLanguage: "ಕನ್ನಡ",
+      nativeName: "ಕನ್ನಡ",
       englishName: "Kannada"
     },
     'kn-IN': {
