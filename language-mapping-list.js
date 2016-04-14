@@ -42,6 +42,10 @@
       nativeName: "العربية",
       englishName: "Arabic"
     },
+    'ar-MA': {
+      nativeName: "العربية",
+      englishName: "Arabic (Morocco)"
+    },
     'ay-BO': {
       nativeName: "Aymar aru",
       englishName: "Aymara"
