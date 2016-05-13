@@ -46,6 +46,10 @@
       nativeName: "العربية",
       englishName: "Arabic (Morocco)"
     },
+    'ar-SA': {
+      nativeName: "العربية (السعودية)",
+      englishName: "Arabic (Saudi Arabia)"
+    },
     'ay-BO': {
       nativeName: "Aymar aru",
       englishName: "Aymara"
@@ -162,6 +166,10 @@
       nativeName: "English (Canada)",
       englishName: "English (Canada)"
     },
+    'en-IE': {
+      nativeName: "English (Ireland)",
+      englishName: "English (Ireland)"
+    },
     'en-IN': {
       nativeName: "English (India)",
       englishName: "English (India)"
@@ -177,6 +185,10 @@
     'en-US': {
       nativeName: "English (US)",
       englishName: "English (US)"
+    },
+    'en-ZA': {
+      nativeName: "English (South Africa)",
+      englishName: "English (South Africa)"
     },
     'en@pirate': {
       nativeName: "English (Pirate)",
@@ -229,6 +241,10 @@
     'es-MX': {
       nativeName: "Español (México)",
       englishName: "Spanish (Mexico)"
+    },
+    'es-US': {
+      nativeName: "Español (Estados Unidos)",
+      englishName: "Spanish (United States)"
     },
     'es-VE': {
       nativeName: "Español (Venezuela)",
