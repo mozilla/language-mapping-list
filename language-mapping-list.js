@@ -215,7 +215,7 @@
       englishName: "Spanish (Latin)"
     },
     'es-NI': {
-      nativeName: "Español Nicaragüense",
+      nativeName: "Español (Nicaragua)",
       englishName: "Spanish (Nicaragua)"
     },
     'es-MX': {
