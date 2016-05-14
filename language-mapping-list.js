@@ -42,6 +42,10 @@
       nativeName: "العربية",
       englishName: "Arabic"
     },
+    'ar-MA': {
+      nativeName: "العربية",
+      englishName: "Arabic (Morocco)"
+    },
     'ay-BO': {
       nativeName: "Aymar aru",
       englishName: "Aymara"
@@ -149,6 +153,10 @@
     'en-GB': {
       nativeName: "English (UK)",
       englishName: "English (UK)"
+    },
+    'en-AU': {
+      nativeName: "English (Australia)",
+      englishName: "English (Australia)"
     },
     'en-CA': {
       nativeName: "English (Canada)",
@@ -419,7 +427,7 @@
       englishName: "Khmer"
     },
     'kn': {
-      nativeLanguage: "ಕನ್ನಡ",
+      nativeName: "ಕನ್ನಡ",
       englishName: "Kannada"
     },
     'kn-IN': {
