@@ -199,7 +199,7 @@
       englishName: "Spanish (Argentina)"
     },
     'es-419': {
-      nativeName: "Español (Latino America)",
+      nativeName: "Español (Latinoamérica)",
       englishName: "Spanish (Latin America)"
     },
     'es-CL': {
@@ -219,11 +219,11 @@
       englishName: "Spanish (Spain)"
     },
     'es-LA': {
-      nativeName: "Español",
-      englishName: "Spanish (Latin)"
+      nativeName: "Español (Latinoamérica)",
+      englishName: "Spanish (Latin America)"
     },
     'es-NI': {
-      nativeName: "Español Nicaragüense",
+      nativeName: "Español (Nicaragua)",
       englishName: "Spanish (Nicaragua)"
     },
     'es-MX': {
