@@ -54,6 +54,10 @@
       nativeName: "Aymar aru",
       englishName: "Aymara"
     },
+    'az': {
+      nativeName: "Azərbaycan dili",
+      englishName: "Azerbaijani"
+    },
     'az-AZ': {
       nativeName: "Azərbaycan dili",
       englishName: "Azerbaijani"
