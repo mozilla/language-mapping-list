@@ -758,7 +758,7 @@
       nativeName: "Filipino",
       englishName: "Filipino"
     },
-    'tl-ST': {
+    'tlh': {
       nativeName: "tlhIngan-Hol",
       englishName: "Klingon"
     },
