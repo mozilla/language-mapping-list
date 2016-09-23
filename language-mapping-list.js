@@ -131,7 +131,7 @@
       englishName: "German"
     },
     'de-AT': {
-      nativeName: "Deutsch (Austria)",
+      nativeName: "Deutsch (Österreich)",
       englishName: "German (Austria)"
     },
     'de-DE': {
@@ -139,7 +139,7 @@
       englishName: "German (Germany)"
     },
     'de-CH': {
-      nativeName: "Deutsch (Switzerland)",
+      nativeName: "Deutsch (Schweiz)",
       englishName: "German (Switzerland)"
     },
     'dsb': {
