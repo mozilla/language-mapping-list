@@ -342,6 +342,10 @@
       nativeName: "Avañe'ẽ",
       englishName: "Guarani"
     },
+    'gu': {
+      nativeName: "ગુજરાતી",
+      englishName: "Gujarati"
+    },
     'gu-IN': {
       nativeName: "ગુજરાતી",
       englishName: "Gujarati"
