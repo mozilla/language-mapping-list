@@ -446,6 +446,10 @@
       nativeName: "ភាសាខ្មែរ",
       englishName: "Khmer"
     },
+    'kab': {
+      nativeName: "Taqbaylit",
+      englishName: "Kabyle"
+    },
     'kn': {
       nativeName: "ಕನ್ನಡ",
       englishName: "Kannada"
