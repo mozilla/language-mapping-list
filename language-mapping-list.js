@@ -463,7 +463,7 @@
       englishName: "Korean"
     },
     'ko-KR': {
-      nativeName: "한국어 (韩国)",
+      nativeName: "한국어 (한국)",
       englishName: "Korean (Korea)"
     },
     'ku-TR': {
