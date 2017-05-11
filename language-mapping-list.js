@@ -742,6 +742,10 @@
       nativeName: "తెలుగు",
       englishName: "Telugu"
     },
+    'tg': {
+      nativeName: "забо́ни тоҷикӣ́",
+      englishName: "Tajik"
+    },
     'tg-TJ': {
       nativeName: "тоҷикӣ",
       englishName: "Tajik"
@@ -801,6 +805,10 @@
     'uz-UZ': {
       nativeName: "O'zbek",
       englishName: "Uzbek"
+    },
+    'vi': {
+      nativeName: "Tiếng Việt",
+      englishName: "Vietnamese"
     },
     'vi-VN': {
       nativeName: "Tiếng Việt",
