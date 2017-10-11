@@ -98,6 +98,10 @@
       nativeName: "Català",
       englishName: "Catalan"
     },
+    'cak': {
+      nativeName: "Maya Kaqchikel",
+      englishName: "Kaqchikel"
+    },
     'ck-US': {
       nativeName: "ᏣᎳᎩ (tsalagi)",
       englishName: "Cherokee"
