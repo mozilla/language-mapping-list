@@ -331,8 +331,8 @@
       englishName: "Irish"
     },
     'ga-IE': {
-      nativeName: "Gaeilge (Gaelic)",
-      englishName: "Irish (Gaelic)"
+      nativeName: "Gaeilge",
+      englishName: "Irish"
     },
     'gl': {
       nativeName: "Galego",
