@@ -427,8 +427,8 @@
       englishName: "Japanese"
     },
     'ja-JP': {
-      nativeName: "日本語",
-      englishName: "Japanese"
+      nativeName: "日本語 (日本)",
+      englishName: "Japanese (Japan)"
     },
     'jv-ID': {
       nativeName: "Basa Jawa",
