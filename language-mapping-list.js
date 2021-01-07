@@ -1,5 +1,5 @@
 (function(root, factory) {
-  if (typeof define === 'function' && define.amd) {
+  if (root && typeof define === 'function' && define.amd) {
     define(function() {
       return (root.languageMappingList = factory());
     });
