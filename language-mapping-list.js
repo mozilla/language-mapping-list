@@ -670,6 +670,10 @@
       nativeName: "Davvisámegiella",
       englishName: "Northern Sámi"
     },
+    'sh': {
+      nativeName: "српскохрватски",
+      englishName: "Serbo-Croatian"
+    },
     'si-LK': {
       nativeName: "පළාත",
       englishName: "Sinhala (Sri Lanka)"
