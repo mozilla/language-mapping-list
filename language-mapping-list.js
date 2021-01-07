@@ -86,6 +86,10 @@
       nativeName: "বাংলা(বাংলাদেশ)",
       englishName: "Bengali (Bangladesh)"
     },
+    'br': {
+      nativeName: "Brezhoneg",
+      englishName: "Breton"
+    }
     'bs-BA': {
       nativeName: "Bosanski",
       englishName: "Bosnian"
@@ -334,6 +338,10 @@
       nativeName: "Gaeilge",
       englishName: "Irish"
     },
+    'gd': {
+      nativeName: "Gàidhlig",
+      englishName: "Gaelic"
+    },
     'gl': {
       nativeName: "Galego",
       englishName: "Galician"
@@ -349,6 +357,10 @@
     'gu-IN': {
       nativeName: "ગુજરાતી",
       englishName: "Gujarati"
+    },
+    'gv': {
+      nativeName: "Gaelg",
+      englishName: "Manx"
     },
     'gx-GR': {
       nativeName: "Ἑλληνική ἀρχαία",
@@ -473,6 +485,10 @@
     'ku-TR': {
       nativeName: "Kurdî",
       englishName: "Kurdish"
+    },
+    'kw': {
+      nativeName: "Kernewek",
+      englishName: "Cornish"
     },
     'la': {
       nativeName: "Latin",
