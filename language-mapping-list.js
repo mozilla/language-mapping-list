@@ -302,9 +302,13 @@
       nativeName: "Suomi",
       englishName: "Finnish"
     },
-    'fo-FO': {
+    'fo': {
       nativeName: "Føroyskt",
       englishName: "Faroese"
+    },
+    'fo-FO': {
+      nativeName: "Føroyskt (Færeyjar)",
+      englishName: "Faroese (Faroe Islands)"
     },
     'fr': {
       nativeName: "Français",
