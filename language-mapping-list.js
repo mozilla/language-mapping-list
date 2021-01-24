@@ -410,9 +410,13 @@
       nativeName: "Magyar",
       englishName: "Hungarian"
     },
-    'hy-AM': {
+    'hy': {
       nativeName: "Հայերեն",
       englishName: "Armenian"
+    },
+    'hy-AM': {
+      nativeName: "Հայերեն (Հայաստան)",
+      englishName: "Armenian (Armenia)"
     },
     'id': {
       nativeName: "Bahasa Indonesia",
