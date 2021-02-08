@@ -458,6 +458,10 @@
       nativeName: "ភាសាខ្មែរ",
       englishName: "Khmer"
     },
+    {
+      nativeName: "kalaallisut",
+      englishName: "Greenlandic"
+    },
     'km-KH': {
       nativeName: "ភាសាខ្មែរ",
       englishName: "Khmer"
