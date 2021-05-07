@@ -89,7 +89,7 @@
     'br': {
       nativeName: "Brezhoneg",
       englishName: "Breton"
-    }
+    },
     'bs-BA': {
       nativeName: "Bosanski",
       englishName: "Bosnian"
