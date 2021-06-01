@@ -786,11 +786,7 @@
       nativeName: "ภาษาไทย (ประเทศไทย)",
       englishName: "Thai (Thailand)"
     },
-    'tl': {
-      nativeName: "Filipino",
-      englishName: "Filipino"
-    },
-    'tl-PH': {
+    'fil': {
       nativeName: "Filipino",
       englishName: "Filipino"
     },
