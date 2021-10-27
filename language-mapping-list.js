@@ -190,6 +190,10 @@
       nativeName: "English (Pirate)",
       englishName: "English (Pirate)"
     },
+    'en-SG': {
+      nativeName: "English (Singapore)",
+      englishName: "English (Singapore)"
+    },
     'en-UD': {
       nativeName: "English (Upside Down)",
       englishName: "English (Upside Down)"
