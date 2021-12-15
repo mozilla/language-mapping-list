@@ -867,7 +867,7 @@
       englishName: "Chinese Traditional"
     },
     'zh-CN': {
-      nativeName: "中文（中国）",
+      nativeName: "中文（中国大陆）",
       englishName: "Chinese Simplified (China)"
     },
     'zh-HK': {
