@@ -695,7 +695,7 @@
       englishName: "Serbo-Croatian"
     },
     'si-LK': {
-      nativeName: "පළාත",
+      nativeName: "සිංහල",
       englishName: "Sinhala (Sri Lanka)"
     },
     'sk': {
