@@ -462,6 +462,10 @@
       nativeName: "ភាសាខ្មែរ",
       englishName: "Khmer"
     },
+    'kl': {
+      nativeName: "kalaallisut",
+      englishName: "Greenlandic"
+    },
     'km-KH': {
       nativeName: "ភាសាខ្មែរ",
       englishName: "Khmer"
@@ -786,11 +790,7 @@
       nativeName: "ภาษาไทย (ประเทศไทย)",
       englishName: "Thai (Thailand)"
     },
-    'tl': {
-      nativeName: "Filipino",
-      englishName: "Filipino"
-    },
-    'tl-PH': {
+    'fil': {
       nativeName: "Filipino",
       englishName: "Filipino"
     },
