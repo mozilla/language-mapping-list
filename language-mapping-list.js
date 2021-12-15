@@ -306,9 +306,13 @@
       nativeName: "Suomi",
       englishName: "Finnish"
     },
-    'fo-FO': {
+    'fo': {
       nativeName: "Føroyskt",
       englishName: "Faroese"
+    },
+    'fo-FO': {
+      nativeName: "Føroyskt (Færeyjar)",
+      englishName: "Faroese (Faroe Islands)"
     },
     'fr': {
       nativeName: "Français",
@@ -410,9 +414,13 @@
       nativeName: "Magyar",
       englishName: "Hungarian"
     },
-    'hy-AM': {
+    'hy': {
       nativeName: "Հայերեն",
       englishName: "Armenian"
+    },
+    'hy-AM': {
+      nativeName: "Հայերեն (Հայաստան)",
+      englishName: "Armenian (Armenia)"
     },
     'id': {
       nativeName: "Bahasa Indonesia",
