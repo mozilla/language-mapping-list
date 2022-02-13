@@ -806,6 +806,10 @@
       nativeName: "tlhIngan-Hol",
       englishName: "Klingon"
     },
+    'tok': {
+      nativeName: "toki pona",
+      englishName: "Toki Pona"
+    },
     'tr': {
       nativeName: "Türkçe",
       englishName: "Turkish"
